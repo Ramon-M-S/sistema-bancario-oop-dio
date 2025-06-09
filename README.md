@@ -3,7 +3,7 @@
 
 ## 📄 Descrição
 
-Projeto desenvolvido como parte do desafio da  **Dio + Bradesco**, com o objetivo de criar um sistema bancário digital simples em **Java**. A aplicação foi construída do zero, com foco total na utilização dos 4 pilares da **Programação Orientada a Objetos (POO)** para criar um código limpo, coeso, reutilizável e extensível.
+Projeto desenvolvido o objetivo de criar um sistema bancário digital simples em **Java**. A aplicação foi construída do zero, com foco total na utilização dos 4 pilares da **Programação Orientada a Objetos (POO)** para criar um código limpo, coeso, reutilizável e extensível.
 
 ---
 
